@@ -1,9 +1,9 @@
 <h1 align="center">Howdy, I'm Greg</h1>
 <h3 align="center">A kind and creative engineer. Maybe your next teammate?</h3>
 
-- 🔭 I’m currently working on **daily code challenges and my portfolio**
+- 🔭 I’m currently working on **building in Salesforce's Nonprofit Cloud**
 
-- 🌱 I’m currently learning **alternatives to MVC**
+- 🌱 I’m currently learning **homelabbing and SQL**
 
 - 👯 I’m looking to collaborate on **civic tech projects**
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seekhighground" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seekhighground" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gregoryley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregoryley" height="30" width="40" /></a>
 </p>
 
